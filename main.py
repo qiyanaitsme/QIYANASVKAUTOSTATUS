@@ -100,7 +100,7 @@ def update_status(vk, status):
 
 
 def main():
-    token = 'vk1.a.ngq5fvrFF8oQAFAwDM4K-lB6_jSEY57HKsrbzxfgdEccgzAYABwBtRvtQX4wWyG13ssr3R3_eJshyTfKMetog2x0_awghuwiNegvhe7DoThguJZMpdGCdAwJRIG8iNlcpQGDZphtd-usFSn44KJBfHLV8rD6MTkPocarlCUHgX3QyxD56j99Pqd7XZxN95e-K6QWwQFuIID4K7__Fl5_vw'
+    token = 'ТУТ ТОКЕН'
     vk = vk_auth(token)
     if not vk:
         return
